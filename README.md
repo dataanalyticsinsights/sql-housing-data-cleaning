@@ -53,12 +53,14 @@ Handling missing values
 String manipulation
 Window functions (ROW_NUMBER)
 Creating views for clean datasets
+
 🚀 Conclusion
 
 The dataset was successfully cleaned and structured, making it suitable for analysis and visualization.# sql-housing-data-cleaning
 SQL project cleaning and preparing housing data for analysis (date standardization, address splitting, duplicate handling).
 
 📚 What I Learned
+
 How to clean real-world messy data using SQL
 Converting text data into proper date formats
 Handling missing values using joins
@@ -71,12 +73,14 @@ Writing clear, structured SQL queries step-by-step
 Understanding differences between SQL environments (MySQL vs SQL Server vs SQLite)
 
 💡 Challenges Faced
+
 Dealing with SQL safe update mode restrictions
 Handling different date formats during conversion
 Managing duplicate removal without crashing the database
 Understanding why some SQL functions don’t work across different systems
 
 🚀 What I Would Improve
+
 Convert all numeric columns to proper numeric data types
 Add indexes to improve query performance
 Build a dashboard (Tableau or Power BI) using the cleaned dataset
